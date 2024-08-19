@@ -10,16 +10,16 @@
 Для того чтобы скомпиллировать проект, выполните следующие действия:
 1. Скопируйте репозиторий:
  
-   ```bash
-   git clone https://github.com/DoctorVoid3000/My_Projects
-   ```
- 2. Пропишите путь к проекту:
-    
-   ```bash
-   cd C++/ALICE_Experiment_Data_Analysis/src
-   ```
+```bash
+git clone https://github.com/DoctorVoid3000/My_Projects
+ ```
+2. Пропишите путь к проекту:
+
+```bash
+cd C++/ALICE_Experiment_Data_Analysis/src
+```
 3. Скомпиллируйте файл с помощью встроенного компиллятора ROOT:
 
-   ```bash
-   root LHC17d.cpp
-   ```
+```bash
+ root LHC17d.cpp
+ ```
