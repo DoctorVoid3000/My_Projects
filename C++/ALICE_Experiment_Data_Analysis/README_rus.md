@@ -18,7 +18,7 @@ git clone https://github.com/DoctorVoid3000/My_Projects
 ```bash
 cd C++/ALICE_Experiment_Data_Analysis/src
 ```
-3. Скомпиллируйте файл с помощью встроенного компиллятора ROOT:
+3. Скомпиллируйте проект с помощью встроенного компиллятора ROOT:
 
 ```bash
  root LHC17d.cpp
