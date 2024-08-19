@@ -21,5 +21,5 @@ cd My_Projects/C++/ALICE_Experiment_Data_Analysis/src
 3. Скомпиллируйте проект с помощью встроенного компиллятора ROOT:
 
 ```bash
- root LHC17d.cpp
+root LHC17d.cpp
  ```
