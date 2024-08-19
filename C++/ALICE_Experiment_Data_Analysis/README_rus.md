@@ -16,7 +16,7 @@ git clone https://github.com/DoctorVoid3000/My_Projects
 2. Пропишите путь к проекту:
 
 ```bash
-cd C++/ALICE_Experiment_Data_Analysis/src
+cd My_Projects/C++/ALICE_Experiment_Data_Analysis/src
 ```
 3. Скомпиллируйте проект с помощью встроенного компиллятора ROOT:
 
